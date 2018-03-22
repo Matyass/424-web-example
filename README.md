@@ -7,11 +7,8 @@ This project enables us to learn source code control using git.
 ## Purpose
 To have code we can use for hands-on exercises.
 
-#Conflict on conflictbranch
-this section will be different on the conflictbranch.
-
-##method
-how will we resolve this conflict, since the base now has a conflict in it?
+## no more conflicts
+we can now merge back into master without any trouble
 
 
 ## Welcome to GitHub Pages
