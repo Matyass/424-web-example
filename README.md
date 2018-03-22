@@ -8,7 +8,7 @@ This project enables us to learn source code control using git.
 To have code we can use for hands-on exercises.
 
 #Conflict on conflictbranch
-this section is now different on the conflictbranch as soon as we save, close, add, and commit it.
+this section will be different on the conflictbranch.
 
 ##method
 how will we resolve this conflict, since the base now has a conflict in it?
